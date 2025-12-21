@@ -39,6 +39,7 @@ DiskSliceSize=4294967296
 ## Required Folder Structure
 To use this script without modifying the code, organize your project folder like this:
 
+```iss
 MyProject/
 ├── setup_script.iss         <-- This script
 ├── Build/                   <-- Put all your game files here
@@ -49,6 +50,8 @@ MyProject/
     ├── background.bmp       (Wizard Image)
     ├── smallbackground.bmp  (Small Wizard Image)
     └── license.txt
+
+```
 
 ## How to Customize
 Open the script in Inno Setup Compiler.
