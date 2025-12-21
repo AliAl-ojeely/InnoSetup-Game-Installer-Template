@@ -35,8 +35,8 @@ If you want to split the installer into multiple parts (`setup.exe`, `setup-1.bi
 DiskSpanning=yes
 SlicesPerDisk=1
 DiskSliceSize=4294967296
-
-Required Folder Structure
+```
+## Required Folder Structure
 To use this script without modifying the code, organize your project folder like this:
 
 MyProject/
